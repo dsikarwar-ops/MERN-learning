@@ -1,0 +1,164 @@
+{
+    "result": [
+        {
+            "product_id": 1,
+            "product_name": "Wireless Mouse",
+            "category_id": 1,
+            "price": 15.99,
+            "stock_quantity": 120,
+            "description": "Ergonomic wireless mouse with adjustable DPI and long battery life."
+        },
+        {
+            "product_id": 2,
+            "product_name": "Mechanical Keyboard",
+            "category_id": 1,
+            "price": 45.5,
+            "stock_quantity": 80,
+            "description": "Durable mechanical keyboard with customizable RGB lighting."
+        },
+        {
+            "product_id": 3,
+            "product_name": "USB-C Hub",
+            "category_id": 2,
+            "price": 25.0,
+            "stock_quantity": 150,
+            "description": "Multi-port USB-C hub for laptops, including HDMI, USB, and SD card slots."
+        },
+        {
+            "product_id": 4,
+            "product_name": "Gaming Chair",
+            "category_id": 3,
+            "price": 199.99,
+            "stock_quantity": 30,
+            "description": "Comfortable gaming chair with lumbar support and adjustable height."
+        },
+        {
+            "product_id": 5,
+            "product_name": "HD Webcam",
+            "category_id": 2,
+            "price": 35.75,
+            "stock_quantity": 60,
+            "description": "1080p HD webcam with built-in microphone for clear video calls."
+        },
+        {
+            "product_id": 6,
+            "product_name": "Bluetooth Speaker",
+            "category_id": 4,
+            "price": 55.0,
+            "stock_quantity": 90,
+            "description": "Portable Bluetooth speaker with rich sound and waterproof design."
+        },
+        {
+            "product_id": 7,
+            "product_name": "Smartwatch",
+            "category_id": 4,
+            "price": 120.0,
+            "stock_quantity": 50,
+            "description": "Smartwatch with heart rate monitor, notifications, and fitness tracking."
+        },
+        {
+            "product_id": 8,
+            "product_name": "External SSD 1TB",
+            "category_id": 2,
+            "price": 110.0,
+            "stock_quantity": 70,
+            "description": "Fast and reliable 1TB external SSD for storing and transferring large files."
+        },
+        {
+            "product_id": 9,
+            "product_name": "Noise Cancelling Headphones",
+            "category_id": 4,
+            "price": 150.0,
+            "stock_quantity": 40,
+            "description": "Over-ear headphones with active noise cancellation and premium sound quality."
+        },
+        {
+            "product_id": 10,
+            "product_name": "Portable Charger",
+            "category_id": 2,
+            "price": 22.5,
+            "stock_quantity": 200,
+            "description": "Compact portable charger with fast charging and high capacity battery."
+        },
+        {
+            "product_id": 11,
+            "product_name": "LED Desk Lamp",
+            "category_id": 3,
+            "price": 30.0,
+            "stock_quantity": 75,
+            "description": "Energy-efficient LED desk lamp with adjustable brightness and angle."
+        },
+        {
+            "product_id": 12,
+            "product_name": "Laptop Stand",
+            "category_id": 3,
+            "price": 28.0,
+            "stock_quantity": 95,
+            "description": "Aluminum laptop stand to improve ergonomics and cooling."
+        },
+        {
+            "product_id": 13,
+            "product_name": "Smartphone Gimbal",
+            "category_id": 4,
+            "price": 99.0,
+            "stock_quantity": 25,
+            "description": "Handheld smartphone gimbal stabilizer for smooth video recording."
+        },
+        {
+            "product_id": 14,
+            "product_name": "Wireless Earbuds",
+            "category_id": 4,
+            "price": 49.99,
+            "stock_quantity": 110,
+            "description": "Compact wireless earbuds with clear sound and long battery life."
+        },
+        {
+            "product_id": 15,
+            "product_name": "Graphics Tablet",
+            "category_id": 5,
+            "price": 85.0,
+            "stock_quantity": 35,
+            "description": "Drawing tablet with pressure sensitivity, perfect for digital artists."
+        },
+        {
+            "product_id": 16,
+            "product_name": "3D Printer",
+            "category_id": 5,
+            "price": 299.0,
+            "stock_quantity": 10,
+            "description": "Desktop 3D printer for creating prototypes and small-scale models."
+        },
+        {
+            "product_id": 17,
+            "product_name": "VR Headset",
+            "category_id": 5,
+            "price": 399.0,
+            "stock_quantity": 15,
+            "description": "Immersive VR headset compatible with gaming and simulation experiences."
+        },
+        {
+            "product_id": 18,
+            "product_name": "Action Camera",
+            "category_id": 4,
+            "price": 149.99,
+            "stock_quantity": 40,
+            "description": "Durable action camera with 4K recording and waterproof design."
+        },
+        {
+            "product_id": 19,
+            "product_name": "Smart Thermostat",
+            "category_id": 6,
+            "price": 179.0,
+            "stock_quantity": 20,
+            "description": "Smart thermostat to control home temperature remotely and save energy."
+        },
+        {
+            "product_id": 20,
+            "product_name": "Robot Vacuum",
+            "category_id": 6,
+            "price": 249.0,
+            "stock_quantity": 18,
+            "description": "Automated robot vacuum cleaner with smart navigation and scheduling."
+        }
+    ]
+}
